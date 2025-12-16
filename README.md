@@ -49,17 +49,4 @@ I am a quick learner, team player, and continuously improving my technical skill
 
 ---
 
-## ▶️ How to Run My Projects
-```bash
-# Clone the repository
-git clone https://github.com/your-username/repository-name.git
-
-# Navigate to the project folder
-cd repository-name
-
-# Install required libraries
-pip install -r requirements.txt
-
-# Run the project
-python main.py
 
